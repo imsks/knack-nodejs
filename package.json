@@ -1,0 +1,23 @@
+{
+  "name": "knack-nodejs",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sachin Kr. Shukla",
+    "url": "https://sachinshukla.me"
+  },
+  "private": true,
+  "engines": {
+    "node": "10.14.2"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
