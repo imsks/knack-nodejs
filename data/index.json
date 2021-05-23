@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "John",
+      "department": "HR",
+      "position": "Manager",
+      "location": "USA"
+    },
+    {
+      "name": "Mike",
+      "department": "IT",
+      "position": "Lead",
+      "location": "India"
+    },
+    {
+      "name": "Amna",
+      "department": "Product",
+      "position": "Manager",
+      "location": "UAE"
+    },
+    {
+      "name": "Rick",
+      "department": "IT",
+      "position": "Lead",
+      "location": "Canada"
+    },
+    {
+      "name": "Shirley",
+      "department": "HR",
+      "position": "Lead",
+      "location": "UK"
+    }
+  ]
+}
