@@ -1,4 +1,4 @@
-# Fast Fingers NodeJS APIs
+# Knack NodeJS APIs
 
 ## Requirements
 
