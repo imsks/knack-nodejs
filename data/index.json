@@ -10,29 +10,29 @@
     {
       "id": "2",
       "name": "Mike",
-      "department": "IT",
-      "position": "Lead",
+      "department": "Web Dev",
+      "position": "Lead Dev",
       "location": "India"
     },
     {
       "id": "3",
       "name": "Amna",
       "department": "Product",
-      "position": "Manager",
+      "position": "Co-founder",
       "location": "UAE"
     },
     {
       "id": "4",
       "name": "Rick",
-      "department": "IT",
+      "department": "App Dev",
       "position": "Lead",
       "location": "Canada"
     },
     {
       "id": "5",
       "name": "Shirley",
-      "department": "HR",
-      "position": "Lead",
+      "department": "UX Reseracher",
+      "position": "Design",
       "location": "UK"
     }
   ]
